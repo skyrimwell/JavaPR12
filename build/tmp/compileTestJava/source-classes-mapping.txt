@@ -1,0 +1,2 @@
+com/example/task12/Task12ApplicationTests.java
+ com.example.task12.Task12ApplicationTests
